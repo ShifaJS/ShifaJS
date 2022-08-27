@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShifaJS
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning competitive programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shifatjhan.hcc@gmail.com
 
 <!---
